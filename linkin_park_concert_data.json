@@ -1,0 +1,161 @@
+{
+  "concert_info": {
+    "event_name": "Lollapalooza India 2026",
+    "headliner": "Linkin Park",
+    "dates": "January 24-25, 2026",
+    "venue": "Mahalaxmi Racecourse, Mumbai",
+    "tour_name": "From Zero World Tour",
+    "significance": "Linkin Park's first-ever performance in India"
+  },
+  "ticket_categories": [
+    {
+      "category": "General Admission",
+      "price_range": "\u20b98,000 - \u20b912,000",
+      "features": "Standard entry, access to all stages"
+    },
+    {
+      "category": "VIP Weekend Pass",
+      "price_range": "\u20b918,000 - \u20b922,000",
+      "features": "Dedicated viewing area, VIP lounge access"
+    },
+    {
+      "category": "Lolla Platinum U25",
+      "price_range": "\u20b929,999",
+      "features": "Under 25 discount, premium amenities"
+    },
+    {
+      "category": "Lolla Platinum Premium",
+      "price_range": "\u20b949,999",
+      "features": "Air-conditioned lounges, shuttle service, premium pits"
+    }
+  ],
+  "travel_info": {
+    "flight_duration": "2 hours 50 minutes",
+    "distance": "1,400 km",
+    "airlines": [
+      "IndiGo",
+      "Air India",
+      "Vistara",
+      "SpiceJet",
+      "Akasa Air"
+    ],
+    "flight_price_range": "\u20b94,000 - \u20b98,000",
+    "recommended_arrival": "Day before concert"
+  },
+  "weather_info": {
+    "temperature_range": "23\u00b0C - 31\u00b0C",
+    "rainfall": "Minimal (0-1mm)",
+    "humidity": "50-60%",
+    "sunshine_hours": "9-10 hours/day",
+    "description": "Pleasant and dry, ideal for outdoor events"
+  },
+  "venue_info": {
+    "name": "Mahalaxmi Racecourse",
+    "location": "Mahalaxmi, Mumbai",
+    "capacity": "40,000+ for festivals",
+    "area": "225 acres",
+    "parking": "1,000+ cars",
+    "nearest_metro": "Mahalaxmi Station",
+    "established": "1883"
+  },
+  "hotels": [
+    {
+      "name": "The St. Regis Mumbai",
+      "distance": "1.1 km",
+      "price_range": "\u20b915,000+",
+      "rating": "5-star",
+      "location": "Lower Parel"
+    },
+    {
+      "name": "Four Seasons Hotel Mumbai",
+      "distance": "1.1 km",
+      "price_range": "\u20b913,000+",
+      "rating": "5-star",
+      "location": "Worli"
+    },
+    {
+      "name": "ITC Grand Central",
+      "distance": "2.0 km",
+      "price_range": "\u20b98,000+",
+      "rating": "5-star",
+      "location": "Parel"
+    },
+    {
+      "name": "The Oberoi Mumbai",
+      "distance": "3.5 km",
+      "price_range": "\u20b912,000+",
+      "rating": "5-star",
+      "location": "Business District"
+    },
+    {
+      "name": "Budget Hotels",
+      "distance": "2-5 km",
+      "price_range": "\u20b92,000-5,000",
+      "rating": "3-4 star",
+      "location": "Various"
+    }
+  ],
+  "setlist": [
+    {
+      "act": "Act 1 - Inception",
+      "songs": [
+        "Somewhere I Belong",
+        "Lying From You",
+        "Crawling",
+        "New Divide",
+        "The Emptiness Machine"
+      ]
+    },
+    {
+      "act": "Act 2 - Creation",
+      "songs": [
+        "The Catalyst",
+        "Burn It Down",
+        "Waiting for the End",
+        "Castle of Glass",
+        "Two Faced",
+        "One Step Closer"
+      ]
+    },
+    {
+      "act": "Act 3 - Collapse",
+      "songs": [
+        "Lost",
+        "Over Each Other",
+        "What I've Done"
+      ]
+    },
+    {
+      "act": "Act 4 - Kintsugi",
+      "songs": [
+        "Overflow",
+        "Numb",
+        "In the End",
+        "Faint"
+      ]
+    },
+    {
+      "act": "Encore",
+      "songs": [
+        "Papercut",
+        "A Place for My Head",
+        "Heavy Is the Crown",
+        "Bleed It Out"
+      ]
+    }
+  ],
+  "checklist": [
+    "\u2713 Book tickets via BookMyShow/lollaindia.com",
+    "\u2713 Fly to Mumbai day before (book early)",
+    "\u2713 Hotel near Mahalaxmi/Lower Parel/Worli",
+    "\u2713 Download Metro/local transport apps",
+    "\u2713 Pack light jacket (evenings can be cool)",
+    "\u2713 Portable charger & power bank",
+    "\u2713 Valid photo ID for entry",
+    "\u2713 UPI/cards (cashless F&B)",
+    "\u2713 Comfortable walking shoes",
+    "\u2713 Pre-book return transport",
+    "\u2713 Check festival bag policy",
+    "\u2713 Plan post-show dining spots"
+  ]
+}
